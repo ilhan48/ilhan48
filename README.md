@@ -12,22 +12,30 @@ I design and build reliable backend systems that are easy to maintain, test, and
 - PostgreSQL, Microsoft SQL Server, Entity Framework Core, Redis, and Elasticsearch
 - Dockerized services, automated testing, logging, and performance improvements
 - Python, FastAPI, LLM integrations, RAG, and document-processing workflows
+- Go backend development and service-oriented applications
+- Rust for memory-safe, performance-conscious software
+- Flutter and Dart for cross-platform mobile development and API-integrated applications
 
 ## Selected Work
 
 ### [docpipe](https://github.com/ilhan48/docpipe)
+
 A RAG-style PDF question-answering API built with Python, FastAPI, Docling, PageIndex, Groq, and Docker. It uses a two-stage retrieval workflow to reduce context size and LLM cost while keeping answers grounded in selected document sections.
 
 ### [.NET E-Commerce API](https://github.com/ilhan48/ECommerceAPI)
+
 A C# backend project demonstrating API development and modular e-commerce capabilities.
 
 ### [Hexagonal Architecture](https://github.com/ilhan48/Hexagonal-Architecture)
+
 A practical C# implementation focused on separation of concerns, testability, and infrastructure-independent business logic.
 
 ### [Vertical Slice Architecture](https://github.com/ilhan48/VerticalSliceArchitecture)
+
 A feature-oriented C# architecture example that keeps application behavior cohesive and reduces cross-layer coupling.
 
 ### [Northwind Demo](https://github.com/ilhan48/NorthwindDemo)
+
 A .NET backend example covering data access, business logic, and maintainable application structure.
 
 ## Available For
